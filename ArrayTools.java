@@ -128,7 +128,7 @@ public class ArrayTools{
                    System.out.println();
                    for (int k = 0; k < n; k++) {
                    System.out.println(b[k]);
-                  /
+                  
 }
 }           //Method to search and array
               public static void arraycontains(int arr[], int toFind){
